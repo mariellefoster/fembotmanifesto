@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 f = open("manifestos.txt")
 n = open("manifestos-lower.txt", "w")
 for line in open("manifestos.txt"):
